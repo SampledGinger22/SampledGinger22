@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @SampledGinger22
-- 👀 I’m interested in systems development
-- 🌱 I’m currently learning HTML, CSS, and Javascript. Hope to dabble in Python.
-- 💞️ I’m looking to collaborate on something in the future once I know what I'm doing. 
-- 📫 How to reach me... I'll get back to you
+- 👋 Hi, I’m Mason Britsch
+- 👀 I’m interested in administrative software development 
+- 🌱 I’m currently learning MERN. I have development experience in C#, .NET, Python, JS, CSS, HTML, and MVC Framework.
 
 <!---
 SampledGinger22/SampledGinger22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
